@@ -15,6 +15,6 @@ If you want to update specific library, run
 
 If you want to update specific library to specific version, bind the version in Gemfile,
 
-gem 'rails', '4.2.5.2'
+    gem 'rails', '4.2.5.2'
 
 and then run `bundle update rails`
